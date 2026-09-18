@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<elecciones>
+    <municipio pueblo="las gabias">
+        <partido>
+            <nombre>Falange española de las jons</nombre>
+            <siglas>Fe jons</siglas>
+            <votos>1000000</votos>
+            <escaños>120</escaños>
+            <candidatos>
+                <alcalde>
+                    <nombre>Juan luis</nombre>
+                    <posicion>25</posicion>
+                </alcalde>
+                <concejal>
+                    <nombre>Laura</nombre>
+                    <posicion>46</posicion>
+                </concejal>
+            </candidatos>
+        </partido>
+        <partido>
+            <nombre>Partido Carlista</nombre>
+            <siglas>Carlistas</siglas>
+            <votos>80</votos>
+            <escaños>1</escaños>
+            <candidatos>
+                <alcalde>
+                    <nombre>fermin</nombre>
+                    <posicion>79</posicion>
+                </alcalde>
+                <concejal>
+                    <nombre>pepe</nombre>
+                    <posicion>89</posicion>
+                </concejal>
+            </candidatos>
+        </partido>
+    </municipio>
+</elecciones>
