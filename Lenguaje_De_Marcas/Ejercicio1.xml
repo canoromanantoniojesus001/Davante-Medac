@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <agendas>
     <agenda>
-        <contacto>
+        <contacto Amigo="Antonio">
             <nombre>Antonio</nombre>
             <telefono>655133087</telefono>
         </contacto>
