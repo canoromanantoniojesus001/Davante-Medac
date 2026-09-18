@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concesionarios>
+    <concesionario Marca="Fiat">
+        <Marca>Fiat</Marca>
+        <modeolo>2001</modeolo>
+        <precio>29700€</precio>
+    </concesionario>
+    <concesionario Marca="Mercedes">
+        <Marca>Mercedew benz</Marca>
+        <modeolo>w41</modeolo>
+        <precio>100000€</precio>
+    </concesionario>
+    <concesionario Marca="Ruinoult">
+        <Marca>Ruinoult</Marca>
+        <modeolo>ruina</modeolo>
+        <precio>100000€</precio>
+    </concesionario>
+</concesionarios>
